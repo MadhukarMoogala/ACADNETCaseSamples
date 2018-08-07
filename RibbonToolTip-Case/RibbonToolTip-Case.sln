@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RibbonToolTip-Case", "RibbonToolTip-Case.csproj", "{7E3FF733-A176-4080-B6BF-4E7283DD60DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ACAD2019|Any CPU = ACAD2019|Any CPU
+		ACAD2019|x64 = ACAD2019|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.ACAD2019|Any CPU.ActiveCfg = ACAD2019|Any CPU
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.ACAD2019|Any CPU.Build.0 = ACAD2019|Any CPU
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.ACAD2019|x64.ActiveCfg = ACAD2019|x64
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.ACAD2019|x64.Build.0 = ACAD2019|x64
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.Debug|x64.ActiveCfg = Debug|x64
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.Debug|x64.Build.0 = Debug|x64
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.Release|x64.ActiveCfg = Release|x64
+		{7E3FF733-A176-4080-B6BF-4E7283DD60DB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C1545E-8DC6-46D5-A53B-5B6635C14324}
+	EndGlobalSection
+EndGlobal
